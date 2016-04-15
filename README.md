@@ -2,7 +2,7 @@
 Authentication REST API to authenticate the AD Users's by their slack ID which is a custom attribute of Azure AD users
 
 ## Solution Overview
-![Solution Overview](https://raw.githubusercontent.com/maniSbindra/devOpsBot/master/solution%20overview/DevBot.jpg "Solution Overview")
+![Solution Overview](https://github.com/brijrajsingh/Azure-AD-AuthSlackID-API/blob/master/AD-Pic.png "Solution Overview")
 
 ### The main application logic is in the file server.js
 
