@@ -1,0 +1,21 @@
+{
+  "name": "dxazureadapi",
+  "version": "1.0.0",
+  "description": "azure slackauthadapi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://dxazureadapi@dxazureadapi.scm.azurewebsites.net:443/DxAzureAdAPI.git"
+  },
+  "author": "brij",
+  "license": "ISC",
+  "dependencies": {
+    "azure-graphapi": "^0.1.0",
+    "express": "https://registry.npmjs.org/express/-/express-4.13.4.tgz"
+  },
+  "devDependencies": {}
+}
